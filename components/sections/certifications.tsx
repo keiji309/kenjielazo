@@ -16,7 +16,7 @@ const certifications = [
 		name: 'Programming Skills Evaluation',
 		issuer: 'University of the East-Manila',
 		year: '2025',
-		image: '/certs/programming.jpg',
+		image: '/certs/certi.png',
 	},
 ]
 
